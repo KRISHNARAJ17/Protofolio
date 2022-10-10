@@ -1,0 +1,65 @@
+/* .logo {
+  height: 50px;
+}
+.card {
+  width: 400px;
+  height: 80vh;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    height: 90vh; 
+
+.img {
+  height: 150px;
+  margin-top: 40px;
+  border-radius: 30px;
+}
+.answer {
+  width: 400px;
+  position: absolute;
+  height: 200px;
+  background-color: black;
+  margin: -11rem 0 0 5rem;
+  opacity: 0;
+  transition: all 0.5s linear;
+}
+.answers {
+  width: 500px;
+  position: absolute;
+  height: 200px;
+  background-color: black;
+  margin: -11rem 0 0 5rem;
+  opacity: 1;
+  transition: all 0.5s linear;
+}
+
+.btn-dark {
+  position: absolute;
+  right: 60%;
+
+  width: 130px;
+}
+#button2 {
+  background-color: rgb(8, 199, 247);
+  position: absolute;
+  right: 3%;
+
+  width: 130px;
+}
+
+#ans {
+  background-color: rgb(245, 7, 185);
+  height: 25%;
+  width: 130px;
+  margin-right: 20%;
+}
+
+.footer {
+  background-color: aquamarine;
+  letter-spacing: 2px;
+  color: rgb(10, 132, 240);
+}  */

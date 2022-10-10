@@ -1,0 +1,70 @@
+/* * {
+  margin: 0;
+}
+
+.body {
+  height: 100vh;
+  min-width: 100%;
+  background-color: black;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.body-inner {
+  background-color: #1c1c1c;
+  height: 95vh;
+  width: 95%;
+  background-attachment: fixed;
+}
+
+.imeg {
+  height: 20vh;
+  width: 20vh;
+  position: absolute;
+  bottom: 76%;
+}
+.ime {
+  height: 6.5vh;
+  margin-left: 87%;
+  margin-top: 14%;
+}
+.myname {
+  position: absolute;
+  left: 10%;
+  top: 11%;
+  color: aliceblue;
+  font-family: "segoe UI";
+  font-size: 1.5rem;
+}
+
+.myname:hover {
+  color: aliceblue;
+}
+.line-top-1 {
+  margin-top: -1.5%;
+  color: aliceblue;
+}
+.text-1 {
+  color: rgb(239, 243, 243);
+  margin-top: 4%;
+  font-family: "segoe UI";
+}
+.my {
+  color: rgb(3, 245, 245);
+}
+.code {
+  margin-top: 10%;
+  height: 8vh;
+  width: 8vh;
+  margin-left: 100px;
+}
+.p1 {
+  font-size: 1rem;
+}
+.skil {
+  color: rgb(239, 243, 243);
+  margin-top: 4%;
+  font-family: "segoe UI";
+  margin-left: 5%;
+} */
